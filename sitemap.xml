@@ -81,6 +81,13 @@
 <changefreq>weekly</changefreq>
 <priority>0.85</priority>
 </url>
+
+<url>
+<loc>https://goribermobile.site/phone-guide.html</loc>
+<lastmod>2026-03-05</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.80</priority>
+</url>
   
   <url>
     <loc>https://goribermobile.site/tecno-spark-20.html</loc>
